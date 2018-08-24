@@ -6,7 +6,7 @@
 define('ruta_app', dirname(dirname(__FILE__)));
 
 //Ruta url 
-define('ruta_url', 'http://localhost:8080/YourCoach');
+define('ruta_url', 'http://localhost:8080/ProyectoYC');
 
 define('nombreSitio', 'YourCoach');
 define('DB_TYPE', 'mysql');
